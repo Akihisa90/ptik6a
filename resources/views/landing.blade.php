@@ -816,8 +816,9 @@
                     <div class="col-lg-6 col-sm-6 col-xs-12 portfolio-item mix semester6">
                         <div class="single-gallery">
                             <img src="{{ asset('assets/img/portfolio/semester6.jpg') }}" class="img-fluid" alt="gallery Image">
-                            <a href="{{ asset('assets/img/portfolio/semester6.jpg') }}" class="gallery_enlarge_icon"><i 
-                                    class="ti-eye"></i></a>
+                            <a href="{{ asset('assets/img/portfolio/semester6.jpg') }}" class="gallery_enlarge_icon">
+                                <i class="ti-eye"></i>
+                            </a>
                         </div>
                     </div><!-- End Col -->
                     <div class="col-lg-6 col-sm-6 col-xs-12 portfolio-item mix semester6">
