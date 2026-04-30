@@ -1,0 +1,14 @@
+node_modules
+.env.local
+.env.*.local
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+bootstrap/cache/*
+vendor
+.git
+.gitignore
+.DS_Store
+npm-debug.log
+yarn-error.log
