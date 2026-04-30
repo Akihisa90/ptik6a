@@ -738,7 +738,7 @@
                 <div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s"
                     data-wow-offset="0">
                     <div class="single_why_choose_img">
-                        <img src="assets/img/home-office.jpg" class="img-fluid" alt="about-image" />
+                        <img src="{{ asset('assets/img/home-office.jpg') }}" class="img-fluid" alt="about-image" />
                     </div>
                 </div><!--- END COL -->
             </div><!--- END ROW -->
@@ -815,29 +815,29 @@
 
                     <div class="col-lg-6 col-sm-6 col-xs-12 portfolio-item mix semester6">
                         <div class="single-gallery">
-                            <img src="assets/img/portfolio/semester6.jpg" class="img-fluid" alt="gallery Image">
-                            <a href="assets/img/portfolio/semester6.jpg" class="gallery_enlarge_icon"><i
+                            <img src="{{ asset('assets/img/portfolio/semester6.jpg') }}" class="img-fluid" alt="gallery Image">
+                            <a href="{{ asset('assets/img/portfolio/semester6.jpg') }}" class="gallery_enlarge_icon"><i 
                                     class="ti-eye"></i></a>
                         </div>
                     </div><!-- End Col -->
                     <div class="col-lg-6 col-sm-6 col-xs-12 portfolio-item mix semester6">
                         <div class="single-gallery">
-                            <img src="assets/img/portfolio/semester6.1.jpg" class="img-fluid" alt="gallery Image">
-                            <a href="assets/img/portfolio/semester6.1.jpg" class="gallery_enlarge_icon"><i
+                            <img src="{{ asset('assets/img/portfolio/semester6.1.jpg') }}" class="img-fluid" alt="gallery Image">
+                            <a href="{{ asset('assets/img/portfolio/semester6.1.jpg') }}" class="gallery_enlarge_icon"><i
                                     class="ti-eye"></i></a>
                         </div>
                     </div><!-- End Col -->
                     <div class="col-lg-6 col-sm-6 col-xs-12 portfolio-item mix semester6">
                         <div class="single-gallery">
-                            <img src="assets/img/portfolio/semester6.3.jpg" class="img-fluid" alt="gallery Image">
-                            <a href="assets/img/portfolio/semester6.3.jpg" class="gallery_enlarge_icon"><i
+                            <img src=<img src="{{ asset('assets/img/portfolio/semester6.3.jpg') }}" class="img-fluid" alt="gallery Image">
+                            <a href="{{ asset('assets/img/portfolio/semester6.3.jpg') }}" class="gallery_enlarge_icon"><i
                                     class="ti-eye"></i></a>
                         </div>
                     </div><!-- End Col -->
                     <div class="col-lg-4 col-sm-6 col-xs-12 portfolio-item mix semester2">
                         <div class="single-gallery">
-                            <img src="assets/img/portfolio/2.jpeg" class="img-fluid" alt="gallery Image">
-                            <a href="assets/img/portfolio/2.jpeg" class="gallery_enlarge_icon"><i
+                            <img src="{{ asset('assets/img/portfolio/2.jpg') }}" class="img-fluid" alt="gallery Image">
+                            <a href="{{ asset('assets/img/portfolio/2.jpg') }}" class="gallery_enlarge_icon"><i
                                     class="ti-eye"></i></a>
                         </div>
                     </div><!-- End Col -->
