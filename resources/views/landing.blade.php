@@ -105,7 +105,7 @@
 
     <!-- START HOME -->
     <section data-stellar-background-ratio="0.3" id="home" class="home_bg"
-        style="background-image: url(assets/img/bg/home-bg.JPG); background-size:cover; background-position: center center; padding: 100px 0; min-height: 70vh; display: flex; align-items: center;">
+        style="background-image: url(assets/img/bg/home-bg.jpg); background-size:cover; background-position: center center; padding: 100px 0; min-height: 70vh; display: flex; align-items: center;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-sm-12 col-xs-12 text-center">
